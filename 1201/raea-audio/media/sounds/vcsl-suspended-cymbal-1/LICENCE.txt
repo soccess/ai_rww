@@ -1,0 +1,5 @@
+Versilian Community Sample Library
+Suspended Cymbal 1
+licence: CC0
+source: https://github.com/sgossner/VCSL
+Versilian Community Sample Library (Versilian Studios), CC0: no credit needed

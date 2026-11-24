@@ -1,0 +1,5 @@
+FluidR3 General MIDI (midi-js-soundfonts)
+celesta
+licence: CC-BY 3.0
+source: https://github.com/gleitz/midi-js-soundfonts
+FluidR3_GM soundfont by Frank Wen, rendered by Benjamin Gleitzman (github.com/gleitz/midi-js-soundfonts), CC-BY 3.0
